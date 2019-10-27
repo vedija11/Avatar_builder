@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW06_Group22</string>
+    <string name="et_fname">First Name</string>
+    <string name="et_lname">Last Name</string>
+    <string name="et_studentID">Student ID</string>
+    <string name="button_save">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
